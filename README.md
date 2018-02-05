@@ -1,4 +1,4 @@
-# CTF write-ups 2017
+# CTF write-ups 2018
 
 [![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg?maxAge=2592000)](https://gitter.im/ctfs/write-ups) [![Reddit](https://img.shields.io/badge/reddit-yes-blue.svg)](https://www.reddit.com/r/securityCTF) [![Twitter Follow](https://img.shields.io/twitter/follow/shields_io.svg?style=social&label=Follow&maxAge=2592000)](https://twitter.com/write_ups)
 
