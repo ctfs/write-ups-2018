@@ -1,15 +1,18 @@
 # North Sec CTF 2018
 
-[![](https://img.shields.io/badge/chat-on\ slack-orange.svg)](https://northsec.slack.com/messages)
+[![](https://img.shields.io/badge/chat-slack-orange.svg)](https://northsec.slack.com/messages)
 
 This repository contains CTFs (Catch The Flag) from North Sec 2018 (May 18th to 20th). 
 
 * Website: [https://www.nsec.io/](https://www.nsec.io/competition/)
-* [Scoreboard](TODO) or [local alternative](TODO)
+* [Scoreboard](https://ctftime.org/event/628)
 
 ## Completed write-ups
 
-* none yet
+List of the completed write ups:
+
+- [forensic/life-on-Mars?](https://github.com/ctfs/write-ups-2018/tree/master/nsec-2018/forensic/Life-on-Mars%3F-3)
+- [revers/babyre0](https://github.com/ctfs/write-ups-2018/tree/master/nsec-2018/reverse/babyre0-1)
 
 ## External write-ups only
 
@@ -18,3 +21,5 @@ This repository contains CTFs (Catch The Flag) from North Sec 2018 (May 18th to 
 ## Missing write-ups
 
 * WIP
+
+
