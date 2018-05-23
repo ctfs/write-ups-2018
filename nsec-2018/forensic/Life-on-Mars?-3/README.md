@@ -7,7 +7,7 @@
 
 Can you decrypt the message on that picture?
 
-![challenge](/message.png?raw=true)
+![challenge](https://github.com/ctfs/write-ups-2018/blob/master/nsec-2018/Life-on-Mars%3F-3/message.png?raw=true)
 
 ## Write-up
 
