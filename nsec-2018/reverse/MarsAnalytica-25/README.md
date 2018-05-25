@@ -5,7 +5,7 @@
 **Solves:**
 **Description:**
 
-(TODO)
+Find a cleared citizen ID to log in with and capture your flag! But be warned, it won't be easy.
 
 ## Write-up
 
@@ -13,4 +13,6 @@
 
 ## Other write-ups and resources
 
-(TODO)
+- [Online Write up from Toshi Piazza](https://blog.rpis.ec/2018/05/northsec-2018-marsanalytica.html)
+- [0xTowel creator of the challenge](https://github.com/0xTowel/MarsAnalytica)
+- [Challenge 277 on ringzer0team.com](https://ringzer0team.com/challenges/277)
