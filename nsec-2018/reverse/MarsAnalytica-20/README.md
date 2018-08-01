@@ -1,7 +1,7 @@
 # NSEC 2018 : Mars Analytica
 
 **Category:** Reverse Engineering
-**Points:** 25
+**Points:** 20
 **Solves:**
 **Description:**
 
