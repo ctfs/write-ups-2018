@@ -1,0 +1,733 @@
+{
+	"game": [
+		{
+			"category": "Tutorial",
+			"description": "Copy, Paste, Enter.\n\n`echo 'synt{j3yp0z3_2_e3q}' | tr 'A-Za-z' 'N-ZA-Mn-za-m'`",
+			"files": [],
+			"hints": [],
+			"id": 144,
+			"name": "R U Alive",
+			"script": "/plugins/challenges/assets/standard-challenge-modal.js",
+			"tags": [],
+			"template": "/plugins/challenges/assets/standard-challenge-modal.njk",
+			"type": "standard",
+			"value": 5
+		},
+		{
+			"category": "Tutorial",
+			"description": "BB8 is one of the few robots that Google can find. Do you know where they hide?",
+			"files": [],
+			"hints": [],
+			"id": 135,
+			"name": "BB8",
+			"script": "/plugins/challenges/assets/standard-challenge-modal.js",
+			"tags": [],
+			"template": "/plugins/challenges/assets/standard-challenge-modal.njk",
+			"type": "standard",
+			"value": 10
+		},
+		{
+			"category": "Tutorial",
+			"description": "There is a flag somewhere on this page. Can you find it?",
+			"files": [],
+			"hints": [],
+			"id": 138,
+			"name": "In My Element",
+			"script": "/plugins/challenges/assets/standard-challenge-modal.js",
+			"tags": [],
+			"template": "/plugins/challenges/assets/standard-challenge-modal.njk",
+			"type": "standard",
+			"value": 10
+		},
+		{
+			"category": "Tutorial",
+			"description": "Can you find the flag in one of these files? Ctrl-F may not be enough.",
+			"files": [
+				"dabd02da67a0a08149c5bda6fc42d4fa/hello.zip"
+			],
+			"hints": [],
+			"id": 141,
+			"name": "Irregular Expressions",
+			"script": "/plugins/challenges/assets/standard-challenge-modal.js",
+			"tags": [],
+			"template": "/plugins/challenges/assets/standard-challenge-modal.njk",
+			"type": "standard",
+			"value": 10
+		},
+		{
+			"category": "Crypto",
+			"description": "Decrypt the message from these RSA values:\r\n\r\n`N = 6771554318063279431848312702694599935973610341134793457387179802502340410323800956250664791676927908216176954377514952594523181778019541527306915289382187`\r\n\r\n`d = 3711713166116654516231852804048066183987365980813665339727476998417559154417292248328844545850669766064400494699780124631469902379473449927403374793877457`\r\n\r\n`c = 2649742855208609235845145293813962935889320032224555958279459176413803529115896568523205268199338089322793362288745663650880219089218944837255286873757915`",
+			"files": [],
+			"hints": [],
+			"id": 21,
+			"name": "EasyRSA",
+			"script": "/plugins/challenges/assets/standard-challenge-modal.js",
+			"tags": [],
+			"template": "/plugins/challenges/assets/standard-challenge-modal.njk",
+			"type": "standard",
+			"value": 50
+		},
+		{
+			"category": "Crypto",
+			"description": "i yeet, you yeet, he/she/they yeet",
+			"files": [
+				"5fc42bbca2f9da22074f708dd19167cf/ciphertext.txt"
+			],
+			"hints": [],
+			"id": 30,
+			"name": "yeet",
+			"script": "/plugins/challenges/assets/standard-challenge-modal.js",
+			"tags": [],
+			"template": "/plugins/challenges/assets/standard-challenge-modal.njk",
+			"type": "standard",
+			"value": 50
+		},
+		{
+			"category": "Misc",
+			"description": "Sometimes you're in the wrong place at the wrong time.",
+			"files": [
+				"be32d80ec9e0e2124e9f6747f2d9992b/misframed.zip"
+			],
+			"hints": [],
+			"id": 36,
+			"name": "Misframed",
+			"script": "/plugins/challenges/assets/standard-challenge-modal.js",
+			"tags": [],
+			"template": "/plugins/challenges/assets/standard-challenge-modal.njk",
+			"type": "standard",
+			"value": 50
+		},
+		{
+			"category": "Pwning",
+			"description": "I love that they made sure to wish me a happy birthday... it was back in June though. \n\n `nc pwn.chal.csaw.io 10106`",
+			"files": [
+				"10b348c4f31470268d6dd2600c19c72f/b0f"
+			],
+			"hints": [],
+			"id": 69,
+			"name": "MakeAWish",
+			"script": "/plugins/challenges/assets/standard-challenge-modal.js",
+			"tags": [],
+			"template": "/plugins/challenges/assets/standard-challenge-modal.njk",
+			"type": "standard",
+			"value": 50
+		},
+		{
+			"category": "Pwning",
+			"description": "Why is everyone around me screaming about flow? \n\n `nc pwn.chal.csaw.io 10101`",
+			"files": [
+				"ba9d9f52b6975db07e1f50b0988589ff/buff"
+			],
+			"hints": [],
+			"id": 72,
+			"name": "AAAA",
+			"script": "/plugins/challenges/assets/standard-challenge-modal.js",
+			"tags": [],
+			"template": "/plugins/challenges/assets/standard-challenge-modal.njk",
+			"type": "standard",
+			"value": 50
+		},
+		{
+			"category": "Forensics",
+			"description": "Who's the fairest? \r\n\r\n `128.238.66.246`\r\n\r\nNOTE: You do NOT need nmap for this challenge",
+			"files": [],
+			"hints": [],
+			"id": 93,
+			"name": "MirrorMirror",
+			"script": "/plugins/challenges/assets/standard-challenge-modal.js",
+			"tags": [],
+			"template": "/plugins/challenges/assets/standard-challenge-modal.njk",
+			"type": "standard",
+			"value": 50
+		},
+		{
+			"category": "Forensics",
+			"description": "It looks like someone was moving stuff around on Sam's network... hmm...",
+			"files": [
+				"e64230c1d722fc52ccb72e6c11696461/output.pcap"
+			],
+			"hints": [],
+			"id": 105,
+			"name": "FeelThePower",
+			"script": "/plugins/challenges/assets/standard-challenge-modal.js",
+			"tags": [],
+			"template": "/plugins/challenges/assets/standard-challenge-modal.njk",
+			"type": "standard",
+			"value": 50
+		},
+		{
+			"category": "Web",
+			"description": "Can you log into the admin's account without knowing the password?\n\n `web.chal.csaw.io:10104`",
+			"files": [],
+			"hints": [],
+			"id": 123,
+			"name": "SQLIntro",
+			"script": "/plugins/challenges/assets/standard-challenge-modal.js",
+			"tags": [],
+			"template": "/plugins/challenges/assets/standard-challenge-modal.njk",
+			"type": "standard",
+			"value": 50
+		},
+		{
+			"category": "Crypto",
+			"description": "Caesar Cipher is outdated, its time to millenialize it and make a Caesar Salad Cipher. Use the _lettuce_ structure in order to get the final substitution cipher required to decode the ciphertext Remember, substitutions are extra!\nAlphabet: `abcdefghijklmnopqrstuvwxyz{}_`\nCiphertext: shpn{o_hote_vy_jphpm_wokc_pircdqoej_kcpkj_cdw_rpejpf_oikeimem_ok}`\nLettuce Structure:\n1. `romaine`\n2. `dressing`\n3. `parmesan`\n4. `anchovies`\n5. `croutons`\n6. `parmesan`",
+			"files": [],
+			"hints": [],
+			"id": 18,
+			"name": "Caesar Salad Cipher",
+			"script": "/plugins/challenges/assets/standard-challenge-modal.js",
+			"tags": [],
+			"template": "/plugins/challenges/assets/standard-challenge-modal.njk",
+			"type": "standard",
+			"value": 75
+		},
+		{
+			"category": "Crypto",
+			"description": "i yeeted, you yeeted, he/she/they have yeeten",
+			"files": [
+				"58a4abb9d035957304676690888c1e06/ciphertext.txt"
+			],
+			"hints": [],
+			"id": 24,
+			"name": "yeeeeeeet",
+			"script": "/plugins/challenges/assets/standard-challenge-modal.js",
+			"tags": [],
+			"template": "/plugins/challenges/assets/standard-challenge-modal.njk",
+			"type": "standard",
+			"value": 100
+		},
+		{
+			"category": "Crypto",
+			"description": "We got an awesome new take on the visionair cipher that iterates over a key in order to encrypt/decrypt flags. Basically we iterate over a key for a length _l_ and encrypt the plaintext using that chunk of the key. The ciphertext is made up of chunks of size _l_ of each individual cipher. The cipher text is `fmcj{aj_rzxn_mpxc_knwxabb}`. Use the flag format to your advantage in cracking the code.",
+			"files": [],
+			"hints": [],
+			"id": 27,
+			"name": "Interactive Vision Air",
+			"script": "/plugins/challenges/assets/standard-challenge-modal.js",
+			"tags": [],
+			"template": "/plugins/challenges/assets/standard-challenge-modal.njk",
+			"type": "standard",
+			"value": 100
+		},
+		{
+			"category": "Misc",
+			"description": "Do you believe in magic?\n\n `http://misc.chal.csaw.io:10102`",
+			"files": [],
+			"hints": [],
+			"id": 45,
+			"name": "Magic 1",
+			"script": "/plugins/challenges/assets/standard-challenge-modal.js",
+			"tags": [],
+			"template": "/plugins/challenges/assets/standard-challenge-modal.njk",
+			"type": "standard",
+			"value": 100
+		},
+		{
+			"category": "Reversing",
+			"description": "Are you the powerhouse of the cell?\n\nhttps://docs.google.com/spreadsheets/d/1j4hL84mBqzJAGWKiTh9_lmzoCEUOOdkwv0yldl9Ko6k/edit?usp=sharing",
+			"files": [],
+			"hints": [],
+			"id": 48,
+			"name": "Mitochondria",
+			"script": "/plugins/challenges/assets/standard-challenge-modal.js",
+			"tags": [],
+			"template": "/plugins/challenges/assets/standard-challenge-modal.njk",
+			"type": "standard",
+			"value": 100
+		},
+		{
+			"category": "Reversing",
+			"description": "I really need to get this OS extra credit \n\n `nc reversing.chal.csaw.io 10101`",
+			"files": [
+				"a44cca119f8f39045fc2f16508bf8803/bomb"
+			],
+			"hints": [],
+			"id": 57,
+			"name": "Just Another Bomb Lab (JABLAB)",
+			"script": "/plugins/challenges/assets/standard-challenge-modal.js",
+			"tags": [],
+			"template": "/plugins/challenges/assets/standard-challenge-modal.njk",
+			"type": "standard",
+			"value": 100
+		},
+		{
+			"category": "Reversing",
+			"description": "eazy peazy reverzing :) \n\n `nc reversing.chal.csaw.io 10102`",
+			"files": [
+				"5c8962632c544424d35cd4422824fceb/babyrev"
+			],
+			"hints": [],
+			"id": 63,
+			"name": "BabyRev",
+			"script": "/plugins/challenges/assets/standard-challenge-modal.js",
+			"tags": [],
+			"template": "/plugins/challenges/assets/standard-challenge-modal.njk",
+			"type": "standard",
+			"value": 100
+		},
+		{
+			"category": "Forensics",
+			"description": "What has Casey been doing on the internet lately?",
+			"files": [
+				"d876d05293571fe5b31fd3009cec7401/data",
+				"4ca56c7bb9972f5dc08397d9ae2d328f/G011A.png"
+			],
+			"hints": [],
+			"id": 96,
+			"name": "Can't Touch This",
+			"script": "/plugins/challenges/assets/standard-challenge-modal.js",
+			"tags": [],
+			"template": "/plugins/challenges/assets/standard-challenge-modal.njk",
+			"type": "standard",
+			"value": 100
+		},
+		{
+			"category": "Forensics",
+			"description": "What is this guy doing? Why can I see his traffic?",
+			"files": [
+				"c825b78a37951084ea61330b8789a45b/output.pcapng"
+			],
+			"hints": [],
+			"id": 111,
+			"name": "PacketPacket",
+			"script": "/plugins/challenges/assets/standard-challenge-modal.js",
+			"tags": [],
+			"template": "/plugins/challenges/assets/standard-challenge-modal.njk",
+			"type": "standard",
+			"value": 100
+		},
+		{
+			"category": "Forensics",
+			"description": "Somneone put this up in the lounge, but I can't see anything",
+			"files": [
+				"e1e2fda56af42883de1a3009e51ff0eb/output.bmp"
+			],
+			"hints": [],
+			"id": 114,
+			"name": "I'mInTheBand",
+			"script": "/plugins/challenges/assets/standard-challenge-modal.js",
+			"tags": [],
+			"template": "/plugins/challenges/assets/standard-challenge-modal.njk",
+			"type": "standard",
+			"value": 100
+		},
+		{
+			"category": "Forensics",
+			"description": "She just told me to look at the big picture, gave me this, and walked away...",
+			"files": [
+				"534370e81665d5bfe48b3a45ecc6c50a/output.pcapng"
+			],
+			"hints": [],
+			"id": 117,
+			"name": "TheBigPicture",
+			"script": "/plugins/challenges/assets/standard-challenge-modal.js",
+			"tags": [],
+			"template": "/plugins/challenges/assets/standard-challenge-modal.njk",
+			"type": "standard",
+			"value": 100
+		},
+		{
+			"category": "Web",
+			"description": "Oh boy SQLI sure is easy right?\nCan you change the query that the search performs to get the admin's password? \n\n `web.chal.csaw.io:10103`",
+			"files": [],
+			"hints": [],
+			"id": 126,
+			"name": "Easy_Search",
+			"script": "/plugins/challenges/assets/standard-challenge-modal.js",
+			"tags": [],
+			"template": "/plugins/challenges/assets/standard-challenge-modal.njk",
+			"type": "standard",
+			"value": 100
+		},
+		{
+			"category": "Web",
+			"description": "Someone brought up this game from back in high school, and I just HAVE to beat the new version.\r\n\r\n`web.chal.csaw.io:10106`\r\n\r\nNote: runs on Python3",
+			"files": [
+				"c601f239f857a2e36d44b0c61fe7a573/clicker2.0.zip"
+			],
+			"hints": [],
+			"id": 150,
+			"name": "Adrift",
+			"script": "/plugins/challenges/assets/standard-challenge-modal.js",
+			"tags": [],
+			"template": "/plugins/challenges/assets/standard-challenge-modal.njk",
+			"type": "standard",
+			"value": 100
+		},
+		{
+			"category": "Crypto",
+			"description": "Oh no! Someone messed with the permutations of ingrediants and now I have no clue how to decipher the message! Try and recover the plaintext!\nAlphabet: `abcdefghijklmnopqrstuvwxyz{}_`\nCiphertext: npre{afijjuve_nufjk_uj_uvjrvuky_kci_fdhruvi_wdvk_oi_gfdgifpy_afijjia}`",
+			"files": [],
+			"hints": [],
+			"id": 15,
+			"name": "Caesar Salad Cipher Part 2",
+			"script": "/plugins/challenges/assets/standard-challenge-modal.js",
+			"tags": [],
+			"template": "/plugins/challenges/assets/standard-challenge-modal.njk",
+			"type": "standard",
+			"value": 125
+		},
+		{
+			"category": "Misc",
+			"description": "Magic is more complicated than you think\n\n `http://misc.chal.csaw.io:10103`",
+			"files": [],
+			"hints": [],
+			"id": 39,
+			"name": "Magic 2",
+			"script": "/plugins/challenges/assets/standard-challenge-modal.js",
+			"tags": [],
+			"template": "/plugins/challenges/assets/standard-challenge-modal.njk",
+			"type": "standard",
+			"value": 150
+		},
+		{
+			"category": "Pwning",
+			"description": "Get it GOT it Good! \n\n `nc pwn.chal.csaw.io 10105`",
+			"files": [
+				"a4e00bab9e7bc5b2ed634d231dcbfdc8/got"
+			],
+			"hints": [],
+			"id": 81,
+			"name": "GOT_IMMM",
+			"script": "/plugins/challenges/assets/standard-challenge-modal.js",
+			"tags": [],
+			"template": "/plugins/challenges/assets/standard-challenge-modal.njk",
+			"type": "standard",
+			"value": 150
+		},
+		{
+			"category": "Pwning",
+			"description": "Have this delicious meal \r\n\r\n `nc pwn.chal.csaw.io 10104`",
+			"files": [
+				"1064c2db0ee70516d4b72fe01f3e470f/dinner"
+			],
+			"hints": [],
+			"id": 84,
+			"name": "dinner_time",
+			"script": "/plugins/challenges/assets/standard-challenge-modal.js",
+			"tags": [],
+			"template": "/plugins/challenges/assets/standard-challenge-modal.njk",
+			"type": "standard",
+			"value": 150
+		},
+		{
+			"category": "Forensics",
+			"description": "Ohhhhhh say can you seeeeeeeeeeeee",
+			"files": [
+				"720cc12c4eceebfc489935928f8f4ada/output.img"
+			],
+			"hints": [],
+			"id": 99,
+			"name": "Imag-ining",
+			"script": "/plugins/challenges/assets/standard-challenge-modal.js",
+			"tags": [],
+			"template": "/plugins/challenges/assets/standard-challenge-modal.njk",
+			"type": "standard",
+			"value": 150
+		},
+		{
+			"category": "Web",
+			"description": "The physics department is so lazy that they don't even grade their own homework anymore\r\n\r\n` web.chal.csaw.io:10108 `",
+			"files": [],
+			"hints": [],
+			"id": 168,
+			"name": "Online Assign 1",
+			"script": "/plugins/challenges/assets/standard-challenge-modal.js",
+			"tags": [],
+			"template": "/plugins/challenges/assets/standard-challenge-modal.njk",
+			"type": "standard",
+			"value": 150
+		},
+		{
+			"category": "Crypto",
+			"description": "I remember when I got the news. It made me weak with joy.",
+			"files": [
+				"ba37b7df518ebd66090eee860ae5aa32/destiny.enc",
+				"52e868c3f4fc4b42961814e62bc49ef3/gen.py"
+			],
+			"hints": [],
+			"id": 33,
+			"name": "DEStiny",
+			"script": "/plugins/challenges/assets/standard-challenge-modal.js",
+			"tags": [],
+			"template": "/plugins/challenges/assets/standard-challenge-modal.njk",
+			"type": "standard",
+			"value": 200
+		},
+		{
+			"category": "Misc",
+			"description": "Can You Follow Instructions? \n\n `nc misc.chal.csaw.io 10101`",
+			"files": [],
+			"hints": [],
+			"id": 42,
+			"name": "LLVN",
+			"script": "/plugins/challenges/assets/standard-challenge-modal.js",
+			"tags": [],
+			"template": "/plugins/challenges/assets/standard-challenge-modal.njk",
+			"type": "standard",
+			"value": 200
+		},
+		{
+			"category": "Reversing",
+			"description": "go go go on an adventure !! \n\n `nc reversing.chal.csaw.io 10105`",
+			"files": [
+				"45f6c8dbd4c57df06c32887365ad2f6c/road"
+			],
+			"hints": [],
+			"id": 60,
+			"name": "road",
+			"script": "/plugins/challenges/assets/standard-challenge-modal.js",
+			"tags": [],
+			"template": "/plugins/challenges/assets/standard-challenge-modal.njk",
+			"type": "standard",
+			"value": 200
+		},
+		{
+			"category": "Pwning",
+			"description": "They had pie in the dining hall today. \n\n`nc pwn.chal.csaw.io 10103`",
+			"files": [
+				"06f7e1c4043a2606b68f7bea38302d74/pibolar"
+			],
+			"hints": [],
+			"id": 75,
+			"name": "pibolar",
+			"script": "/plugins/challenges/assets/standard-challenge-modal.js",
+			"tags": [],
+			"template": "/plugins/challenges/assets/standard-challenge-modal.njk",
+			"type": "standard",
+			"value": 200
+		},
+		{
+			"category": "Forensics",
+			"description": "There's something funny about this physics lab...",
+			"files": [
+				"d11fa7aba040d352910f47dfdef09433/output.pdf"
+			],
+			"hints": [],
+			"id": 108,
+			"name": "MultiLingual",
+			"script": "/plugins/challenges/assets/standard-challenge-modal.js",
+			"tags": [],
+			"template": "/plugins/challenges/assets/standard-challenge-modal.njk",
+			"type": "standard",
+			"value": 200
+		},
+		{
+			"category": "Web",
+			"description": "Now that you can XSS, try it again!\r\nThis time the flag is in the cookies of the admin. \r\n\r\n `web.chal.csaw.io:10102`",
+			"files": [],
+			"hints": [],
+			"id": 120,
+			"name": "CookieDevil",
+			"script": "/plugins/challenges/assets/standard-challenge-modal.js",
+			"tags": [],
+			"template": "/plugins/challenges/assets/standard-challenge-modal.njk",
+			"type": "standard",
+			"value": 200
+		},
+		{
+			"category": "Web",
+			"description": "Now you have to do your homework!\r\nWhen you submit a homework assignment, the submission will be validated on the server. What this means, is that your homework submission will be rendered in a webpage on the server! Some nasty things can happen here......\r\nThis challange requires you to send the flag to a public IP address (one that you control).\r\nThe flag is at /flag.txt, but it can only be accesed by the server itself! \r\n\r\n `web.chal.csaw.io:10105`",
+			"files": [],
+			"hints": [],
+			"id": 129,
+			"name": "Validation",
+			"script": "/plugins/challenges/assets/standard-challenge-modal.js",
+			"tags": [],
+			"template": "/plugins/challenges/assets/standard-challenge-modal.njk",
+			"type": "standard",
+			"value": 200
+		},
+		{
+			"category": "Web",
+			"description": "Hey it looks like the math department decided to use this crummy software too...\r\n\r\n` web.chal.csaw.io:10108 `",
+			"files": [],
+			"hints": [],
+			"id": 174,
+			"name": "Online Assign 2",
+			"script": "/plugins/challenges/assets/standard-challenge-modal.js",
+			"tags": [],
+			"template": "/plugins/challenges/assets/standard-challenge-modal.njk",
+			"type": "standard",
+			"value": 200
+		},
+		{
+			"category": "Reversing",
+			"description": "Just keep going just keep going \r\n\r\n `nc reversing.chal.csaw.io 10106`",
+			"files": [
+				"ba844a577847fcde0da8153f8e7dc68b/chary"
+			],
+			"hints": [],
+			"id": 66,
+			"name": "chary",
+			"script": "/plugins/challenges/assets/standard-challenge-modal.js",
+			"tags": [],
+			"template": "/plugins/challenges/assets/standard-challenge-modal.njk",
+			"type": "standard",
+			"value": 250
+		},
+		{
+			"category": "Pwning",
+			"description": "All my ideas keep jumping around \r\n\r\n`nc pwn.chal.csaw.io 10102`",
+			"files": [
+				"f69d443ff53e14fd3b589bb48ef23b2c/adhd",
+				"067abde618e0b338559b94944213dd79/libc.so.6"
+			],
+			"hints": [],
+			"id": 90,
+			"name": "ADHD",
+			"script": "/plugins/challenges/assets/standard-challenge-modal.js",
+			"tags": [],
+			"template": "/plugins/challenges/assets/standard-challenge-modal.njk",
+			"type": "standard",
+			"value": 250
+		},
+		{
+			"category": "Web",
+			"description": "People say that I'm too negative.  I say that sometimes you need negativity to grow.\r\n\r\n`web.chal.csaw.io:10106`\r\n\r\nNote: runs on Python3",
+			"files": [
+				"8fb1d306d39989c7ecf1aaf0e145f613/clicker2.0.zip"
+			],
+			"hints": [],
+			"id": 156,
+			"name": "Negativity",
+			"script": "/plugins/challenges/assets/standard-challenge-modal.js",
+			"tags": [],
+			"template": "/plugins/challenges/assets/standard-challenge-modal.njk",
+			"type": "standard",
+			"value": 250
+		},
+		{
+			"category": "Pwning",
+			"description": "I found a bag of poprops, they're really off the chain \r\n\r\n`nc pwn.chal.csaw.io 10107`",
+			"files": [
+				"b89fe9044c9338875103fdc20c09f7cb/poprops"
+			],
+			"hints": [],
+			"id": 78,
+			"name": "Poprops",
+			"script": "/plugins/challenges/assets/standard-challenge-modal.js",
+			"tags": [],
+			"template": "/plugins/challenges/assets/standard-challenge-modal.njk",
+			"type": "standard",
+			"value": 300
+		},
+		{
+			"category": "Forensics",
+			"description": "0 1 2 10",
+			"files": [
+				"8ed772344c26472489c93a99ac7a7042/output.wav"
+			],
+			"hints": [],
+			"id": 102,
+			"name": "UltraHyperMegaSonic",
+			"script": "/plugins/challenges/assets/standard-challenge-modal.js",
+			"tags": [],
+			"template": "/plugins/challenges/assets/standard-challenge-modal.njk",
+			"type": "standard",
+			"value": 300
+		},
+		{
+			"category": "Web",
+			"description": "Now that you can SQLI, can you use that to leak out information from the database?\r\nThe flag is in a hidden table.\r\nHint: You will need to use information_schema \r\n\r\n `web.chal.csaw.io:10101`",
+			"files": [],
+			"hints": [],
+			"id": 132,
+			"name": "BlindAsABat",
+			"script": "/plugins/challenges/assets/standard-challenge-modal.js",
+			"tags": [],
+			"template": "/plugins/challenges/assets/standard-challenge-modal.njk",
+			"type": "standard",
+			"value": 300
+		},
+		{
+			"category": "Reversing",
+			"description": "Somethings a little off here! I'm Anggrryyy \r\n\r\n `nc reversing.chal.csaw.io 10104`",
+			"files": [
+				"eee84bbccffa7a0518f7034249780d70/flippityflop"
+			],
+			"hints": [],
+			"id": 54,
+			"name": "flippityflop",
+			"script": "/plugins/challenges/assets/standard-challenge-modal.js",
+			"tags": [],
+			"template": "/plugins/challenges/assets/standard-challenge-modal.njk",
+			"type": "standard",
+			"value": 350
+		},
+		{
+			"category": "Web",
+			"description": "Teachers aren't programmers, and it shows\r\n\r\n` web.chal.csaw.io:10108 `",
+			"files": [],
+			"hints": [],
+			"id": 177,
+			"name": "Online Assign 3",
+			"script": "/plugins/challenges/assets/standard-challenge-modal.js",
+			"tags": [],
+			"template": "/plugins/challenges/assets/standard-challenge-modal.njk",
+			"type": "standard",
+			"value": 350
+		},
+		{
+			"category": "Reversing",
+			"description": "This kid reallllly wants me to join his crypto currency startup",
+			"files": [
+				"ac6744c207e710f02a36bb79f7cc093f/ethersplay.abi",
+				"12943ae3393e235790630f3f86d38ec6/ethersplay.bytecode"
+			],
+			"hints": [],
+			"id": 51,
+			"name": "ToTheMoon",
+			"script": "/plugins/challenges/assets/standard-challenge-modal.js",
+			"tags": [],
+			"template": "/plugins/challenges/assets/standard-challenge-modal.njk",
+			"type": "standard",
+			"value": 400
+		},
+		{
+			"category": "Pwning",
+			"description": "So many voices but only one to choose from \r\n\r\n`nc pwn.chal.csaw.io 10108`",
+			"files": [
+				"ddc12924582cde67645921b8340eafe4/schizophrenia"
+			],
+			"hints": [],
+			"id": 87,
+			"name": "schizophrenia",
+			"script": "/plugins/challenges/assets/standard-challenge-modal.js",
+			"tags": [],
+			"template": "/plugins/challenges/assets/standard-challenge-modal.njk",
+			"type": "standard",
+			"value": 400
+		},
+		{
+			"category": "Web",
+			"description": "I've been paying a lot more attention in psychology lately, and I've come to the conclusion that in the end we're all just the same anyway.\r\n\r\n`web.chal.csaw.io:10106`\r\n\r\nNote: runs on Python3",
+			"files": [
+				"92f4b3bf4d5ede68815e161e4f1b92f8/clicker2.0.zip"
+			],
+			"hints": [],
+			"id": 159,
+			"name": "OpenObjectivity",
+			"script": "/plugins/challenges/assets/standard-challenge-modal.js",
+			"tags": [],
+			"template": "/plugins/challenges/assets/standard-challenge-modal.njk",
+			"type": "standard",
+			"value": 500
+		},
+		{
+			"category": "Reversing",
+			"description": "Every poor college student knows that there's a better way around paying for videogames\r\n\r\n` nc reversing.chal.csaw.io:10109 `\r\n\r\nUpdate Sep 24 12:02 AM EST: binary should run on more machines now (sha1 5ec20ddfb58a2948c6f3eb214ba44f0b453f347c)",
+			"files": [
+				"3c9c1e927c8b01198e9ab0bd1cc9a94e/isengard2"
+			],
+			"hints": [],
+			"id": 180,
+			"name": "Isengard 2",
+			"script": "/plugins/challenges/assets/standard-challenge-modal.js",
+			"tags": [],
+			"template": "/plugins/challenges/assets/standard-challenge-modal.njk",
+			"type": "standard",
+			"value": 500
+		}
+	]
+}
