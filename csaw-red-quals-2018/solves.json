@@ -1,0 +1,324 @@
+{
+	"solves": [
+		{
+			"category": "Tutorial",
+			"chal": "R U Alive",
+			"chalid": 144,
+			"team": 1890,
+			"time": 1537992009,
+			"value": 5
+		},
+		{
+			"category": "Tutorial",
+			"chal": "In My Element",
+			"chalid": 138,
+			"team": 1890,
+			"time": 1538014509,
+			"value": 10
+		},
+		{
+			"category": "Tutorial",
+			"chal": "Irregular Expressions",
+			"chalid": 141,
+			"team": 1890,
+			"time": 1538014567,
+			"value": 10
+		},
+		{
+			"category": "Crypto",
+			"chal": "EasyRSA",
+			"chalid": 21,
+			"team": 1890,
+			"time": 1538015094,
+			"value": 50
+		},
+		{
+			"category": "Crypto",
+			"chal": "yeet",
+			"chalid": 30,
+			"team": 1890,
+			"time": 1538015381,
+			"value": 50
+		},
+		{
+			"category": "Crypto",
+			"chal": "Caesar Salad Cipher",
+			"chalid": 18,
+			"team": 1890,
+			"time": 1538015458,
+			"value": 75
+		},
+		{
+			"category": "Web",
+			"chal": "SQLIntro",
+			"chalid": 123,
+			"team": 1890,
+			"time": 1538016973,
+			"value": 50
+		},
+		{
+			"category": "Reversing",
+			"chal": "Mitochondria",
+			"chalid": 48,
+			"team": 1890,
+			"time": 1538018498,
+			"value": 100
+		},
+		{
+			"category": "Forensics",
+			"chal": "MirrorMirror",
+			"chalid": 93,
+			"team": 1890,
+			"time": 1538033879,
+			"value": 50
+		},
+		{
+			"category": "Forensics",
+			"chal": "FeelThePower",
+			"chalid": 105,
+			"team": 1890,
+			"time": 1538034282,
+			"value": 50
+		},
+		{
+			"category": "Web",
+			"chal": "Easy_Search",
+			"chalid": 126,
+			"team": 1890,
+			"time": 1538034861,
+			"value": 100
+		},
+		{
+			"category": "Misc",
+			"chal": "Misframed",
+			"chalid": 36,
+			"team": 1890,
+			"time": 1538035144,
+			"value": 50
+		},
+		{
+			"category": "Crypto",
+			"chal": "Caesar Salad Cipher Part 2",
+			"chalid": 15,
+			"team": 1890,
+			"time": 1538036072,
+			"value": 125
+		},
+		{
+			"category": "Pwning",
+			"chal": "MakeAWish",
+			"chalid": 69,
+			"team": 1890,
+			"time": 1538070135,
+			"value": 50
+		},
+		{
+			"category": "Misc",
+			"chal": "Magic 1",
+			"chalid": 45,
+			"team": 1890,
+			"time": 1538073345,
+			"value": 100
+		},
+		{
+			"category": "Reversing",
+			"chal": "Just Another Bomb Lab (JABLAB)",
+			"chalid": 57,
+			"team": 1890,
+			"time": 1538075370,
+			"value": 100
+		},
+		{
+			"category": "Reversing",
+			"chal": "BabyRev",
+			"chalid": 63,
+			"team": 1890,
+			"time": 1538080104,
+			"value": 100
+		},
+		{
+			"category": "Web",
+			"chal": "Online Assign 2",
+			"chalid": 174,
+			"team": 1890,
+			"time": 1538080327,
+			"value": 200
+		},
+		{
+			"category": "Pwning",
+			"chal": "AAAA",
+			"chalid": 72,
+			"team": 1890,
+			"time": 1538113997,
+			"value": 50
+		},
+		{
+			"category": "Tutorial",
+			"chal": "BB8",
+			"chalid": 135,
+			"team": 1890,
+			"time": 1538124727,
+			"value": 10
+		},
+		{
+			"category": "Misc",
+			"chal": "Magic 2",
+			"chalid": 39,
+			"team": 1890,
+			"time": 1538157973,
+			"value": 150
+		},
+		{
+			"category": "Web",
+			"chal": "Online Assign 3",
+			"chalid": 177,
+			"team": 1890,
+			"time": 1538162129,
+			"value": 350
+		},
+		{
+			"category": "Web",
+			"chal": "Online Assign 1",
+			"chalid": 168,
+			"team": 1890,
+			"time": 1538162934,
+			"value": 150
+		},
+		{
+			"category": "Forensics",
+			"chal": "I'mInTheBand",
+			"chalid": 114,
+			"team": 1890,
+			"time": 1538163577,
+			"value": 100
+		},
+		{
+			"category": "Forensics",
+			"chal": "TheBigPicture",
+			"chalid": 117,
+			"team": 1890,
+			"time": 1538163730,
+			"value": 100
+		},
+		{
+			"category": "Web",
+			"chal": "Validation",
+			"chalid": 129,
+			"team": 1890,
+			"time": 1538165787,
+			"value": 200
+		},
+		{
+			"category": "Web",
+			"chal": "CookieDevil",
+			"chalid": 120,
+			"team": 1890,
+			"time": 1538166667,
+			"value": 200
+		},
+		{
+			"category": "Pwning",
+			"chal": "GOT_IMMM",
+			"chalid": 81,
+			"team": 1890,
+			"time": 1538190032,
+			"value": 150
+		},
+		{
+			"category": "Misc",
+			"chal": "LLVN",
+			"chalid": 42,
+			"team": 1890,
+			"time": 1538191498,
+			"value": 200
+		},
+		{
+			"category": "Web",
+			"chal": "BlindAsABat",
+			"chalid": 132,
+			"team": 1890,
+			"time": 1538233092,
+			"value": 300
+		},
+		{
+			"category": "Pwning",
+			"chal": "dinner_time",
+			"chalid": 84,
+			"team": 1890,
+			"time": 1538237234,
+			"value": 150
+		},
+		{
+			"category": "Pwning",
+			"chal": "pibolar",
+			"chalid": 75,
+			"team": 1890,
+			"time": 1538239453,
+			"value": 200
+		},
+		{
+			"category": "Web",
+			"chal": "Adrift",
+			"chalid": 150,
+			"team": 1890,
+			"time": 1538240303,
+			"value": 100
+		},
+		{
+			"category": "Crypto",
+			"chal": "DEStiny",
+			"chalid": 33,
+			"team": 1890,
+			"time": 1538242494,
+			"value": 200
+		},
+		{
+			"category": "Crypto",
+			"chal": "yeeeeeeet",
+			"chalid": 24,
+			"team": 1890,
+			"time": 1538243367,
+			"value": 100
+		},
+		{
+			"category": "Reversing",
+			"chal": "chary",
+			"chalid": 66,
+			"team": 1890,
+			"time": 1538244851,
+			"value": 250
+		},
+		{
+			"category": "Reversing",
+			"chal": "road",
+			"chalid": 60,
+			"team": 1890,
+			"time": 1538248376,
+			"value": 200
+		},
+		{
+			"category": "Forensics",
+			"chal": "MultiLingual",
+			"chalid": 108,
+			"team": 1890,
+			"time": 1538250173,
+			"value": 200
+		},
+		{
+			"category": "Forensics",
+			"chal": "PacketPacket",
+			"chalid": 111,
+			"team": 1890,
+			"time": 1538334225,
+			"value": 100
+		},
+		{
+			"category": "Forensics",
+			"chal": "Imag-ining",
+			"chalid": 99,
+			"team": 1890,
+			"time": 1538335797,
+			"value": 150
+		}
+	]
+}
